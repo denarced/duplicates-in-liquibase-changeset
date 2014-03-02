@@ -1,0 +1,3 @@
+*.pyc
+# Vim swap files
+*.swp
